@@ -16,6 +16,16 @@ const Mywork = () => {
             link="https://oldcummunitysupport.onrender.com/"
           />
           <Work_data
+            Title="Hotel Booking App"
+            ImgProject="Images/hotelBooking.png"
+            link="https://shivanshurecidency.onrender.com/"
+          />
+          <Work_data
+            Title="Hackathon Project"
+            ImgProject="Images/hackathonproject.png"
+            link="https://grievease-2-frontend.onrender.com/"
+          />
+          <Work_data
             Title="Grocery Store website"
             ImgProject="Images/php.jpg"
             link="https://github.com/shiv-anshu-gupta/GroceryStore"
