@@ -1,5 +1,5 @@
-import Work_data from "./work_data" // Updated import path
-
+import React from "react";
+import Work_data from "./Work_data";
 const Mywork = () => {
   return (
     <div
