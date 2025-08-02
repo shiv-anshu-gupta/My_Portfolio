@@ -11,9 +11,14 @@ const Mywork = () => {
       <div className="flex justify-center items-center ">
         <div className=" w-9/12  flex justify-between m-10 flex-wrap">
           <Work_data
-            Title="Elder Support"
-            ImgProject="Images/village.png"
-            link="https://oldcummunitysupport.onrender.com/"
+            Title="Client Project"
+            ImgProject="Images/client.png"
+            link="https://www.aditihdrealestate.com/"
+          />
+          <Work_data
+            Title="Hackathon Project"
+            ImgProject="Images/hackathonproject.png"
+            link="https://grievease-2-frontend.onrender.com/"
           />
           <Work_data
             Title="Hotel Booking App"
@@ -21,9 +26,9 @@ const Mywork = () => {
             link="https://shivanshurecidency.onrender.com/"
           />
           <Work_data
-            Title="Hackathon Project"
-            ImgProject="Images/hackathonproject.png"
-            link="https://grievease-2-frontend.onrender.com/"
+            Title="Elder Support"
+            ImgProject="Images/village.png"
+            link="https://oldcummunitysupport.onrender.com/"
           />
           <Work_data
             Title="Grocery Store website"
