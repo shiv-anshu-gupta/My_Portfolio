@@ -1,4 +1,4 @@
-import Work_data from "./work-data" // Updated import path
+import Work_data from "./work_data" // Updated import path
 
 const Mywork = () => {
   return (
