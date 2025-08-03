@@ -16,9 +16,14 @@ const Mywork = () => {
         <div className="flex justify-center">
           <div className="grid w-full max-w-6xl grid-cols-1 gap-8 sm:grid-cols-2 lg:grid-cols-3">
             <Work_data
-              Title="Client Project"
+              Title="Client Project 1"
               ImgProject="Images/client.png"
               link="https://www.aditihdrealestate.com/"
+            />
+            <Work_data
+              Title="Client Project 2"
+              ImgProject="Images/client.png"
+              link="https:https://nweaverarchitect.in/"
             />
             <Work_data
               Title="Hackathon Project"
