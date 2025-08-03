@@ -23,7 +23,7 @@ const Mywork = () => {
             <Work_data
               Title="Client Project 2"
               ImgProject="Images/client2.png"
-              link="https:https://nweaverarchitect.in/"
+              link="https://www.nweaverarchitect.in/"
             />
             <Work_data
               Title="Hackathon Project"
